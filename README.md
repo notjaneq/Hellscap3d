@@ -19,4 +19,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hellscap3d&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/596097531981725706)](https://discord.com/users/596097531981725706)
+
 ![Footer](./footer.png)
