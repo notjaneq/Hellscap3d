@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">I'm Hellscaped.</h1>
-<p align="center"> Py, Lua, Hypercube, SPWN</p>
+<h1 align="center">I'm Janeq.</h1>
+<p align="center"> I fork some things. Im an roblox, discord.js and discord.py dev.</p>
 <a href="https://github.com/Hellscap3d">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Hellscap3d" alt="Profile Views">
