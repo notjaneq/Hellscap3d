@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">I'm Janeq.</h1>
+<h1 align="center">I'm (Not)Janeq.</h1>
 <p align="center"> I fork some things. Im an roblox, discord.js and discord.py dev.</p>
 <a href="https://github.com/Hellscap3d">
   <p align="center">
