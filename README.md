@@ -1,8 +1,8 @@
 ![Header](./header.png)
 
 <h1 align="center">I'm (Not)Janeq.</h1>
-<p align="center"> I fork some things. Im an roblox, discord.js and discord.py dev.</p>
-<a href="https://github.com/Hellscap3d">
+<p align="center"> I fork some things. Thats the only reason im actually on github lol</p>
+<a href="https://github.com/notjaneq">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=notjaneq" alt="Profile Views">
   </p>
